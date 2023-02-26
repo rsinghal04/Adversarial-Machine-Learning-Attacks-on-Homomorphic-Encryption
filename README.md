@@ -16,6 +16,7 @@ The code for PRADA: Protecting Against DNN Model Stealing Attacks is in the resp
 Install the above using conda or pip.
 <br />
 ### Usage ###
+<br />
 All the code files are present in src folder. The data folder contains datasets that can be used to query the target model.
 <br />
 Use model.py to create a target model. Use traincnn.ipynb to train and save the target model.
