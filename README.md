@@ -24,3 +24,8 @@ Use model.py to create a target model. Use traincnn.ipynb to train and save the 
 In main.py, provide the path of the saved target model.
 <br />
 Execute main.py to create a server. Then in another terminal execute run.py to query the model. run.py can be modeified to use any dataset. The code works with images in MNIST format i.e., (28,28). If an attack is detected, the server will return shuffled probability vector.
+## References
+<a id="1">[1]</a> 
+GitHub - Koukyosyumei. 
+AIJack: Security and Privacy Risk Simulator for Machine Learning. 
+https://github.com/Koukyosyumei/AIJack
