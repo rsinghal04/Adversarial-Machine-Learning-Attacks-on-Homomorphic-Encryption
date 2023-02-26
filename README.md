@@ -11,5 +11,6 @@ The code for PRADA: Protecting Against DNN Model Stealing Attacks is in the resp
 * scipy
 * matplotlib
 * flask
-* requests__
+* requests
+<br />
 Install the above using conda or pip.
