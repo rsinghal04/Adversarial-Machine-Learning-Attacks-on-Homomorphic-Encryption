@@ -14,8 +14,7 @@ The code for PRADA: Protecting Against DNN Model Stealing Attacks is in the resp
 * requests
 <br />
 Install the above using conda or pip.
-<br />
-### Usage ###
+## Usage ##
 <br />
 All the code files are present in src folder. The data folder contains datasets that can be used to query the target model.
 <br />
