@@ -34,5 +34,5 @@ AIJack: Security and Privacy Risk Simulator for Machine Learning.
 https://github.com/Koukyosyumei/AIJack
 
 <a id="2">[2]</a> 
-Trusted-AI/adversarial-robustness-toolbox: Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams 
+Trusted-AI/adversarial-robustness-toolbox: Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference
 https://github.com/Trusted-AI/adversarial-robustness-toolbox
