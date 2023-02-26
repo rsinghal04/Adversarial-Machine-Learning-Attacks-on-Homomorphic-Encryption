@@ -15,6 +15,7 @@ The code for PRADA: Protecting Against DNN Model Stealing Attacks is in the resp
 <br />
 Install the above using conda or pip.
 <br />
+
 ## Usage ##
 <br />
 All the code files are present in src folder. The data folder contains datasets that can be used to query the target model.
@@ -24,6 +25,8 @@ Use model.py to create a target model. Use traincnn.ipynb to train and save the 
 In main.py, provide the path of the saved target model.
 <br />
 Execute main.py to create a server. Then in another terminal execute run.py to query the model. run.py can be modeified to use any dataset. The code works with images in MNIST format i.e., (28,28). If an attack is detected, the server will return shuffled probability vector.
+
+
 ## References
 <a id="1">[1]</a> 
 GitHub - Koukyosyumei. 
