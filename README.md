@@ -1,6 +1,6 @@
 # Adversarial-Machine-Learning-Attacks-on-Homomorphic-Encryption #
 The repository contains experimental results of the thesis. Model extraction and inversion codes are in their respective folders.
-The extraction and inversion attack codes are in .ipynb files. To run the files, open them in Google Colab and from runtime select Restart and run all. The first cell of all the files will install the required dependencies.
+The extraction and inversion attack codes are in .ipynb files. To run the files, open them in Google Colab and from runtime select Restart and run all. The first cell of all the files will install the required dependencies. To save the extracted images, modify the path in model inversion .ipynb files.
 ## PRADA ##
 The code for PRADA: Protecting Against DNN Model Stealing Attacks is in the respective folder. The code cannot be run on Colab and hence a setup is required.
 ### Requirements ###
